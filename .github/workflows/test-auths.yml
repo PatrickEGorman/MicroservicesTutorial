@@ -1,4 +1,4 @@
-name: tetsts
+name: tetsts-auth
 
 on:
   pull_request
